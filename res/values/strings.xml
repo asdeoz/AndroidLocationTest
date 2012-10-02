@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">AndroidLocationTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="to_upper">To Upper</string>
+    <string name="text_to_upper">Insert text to uppercase</string>
+    <string name="button_upload">Upload</string>
+    <string name="button_download">Download</string>
+
+</resources>
